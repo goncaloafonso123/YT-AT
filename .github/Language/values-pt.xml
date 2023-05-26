@@ -34,8 +34,6 @@
     <string name="general_api_mirror_url">Alterar URL espelho da API</string>
     <string name="general_api_mirror_url_sum">"Endereço espelho do servidor para mudar quando o servidor do SponsorBlock estiver indisponível. &lt;b&gt;Não altere isto a não ser
     <string name="general_min_duration">Duração mínima do segmento</string>
-    <string name="general_min_duration_sum">Segmentos menores que o valor definido (em segundos) não serão ignorados ou exibidos no player</string>
-    <string name="general_skipcount">Contagem de segmentos pulados</string>
     <string name="general_skipcount_sum">Permite que o sistema do SponsorBlock saiba quanto tempo as pessoas economizaram. A extensão envia uma mensagem pro servidor sempre que você pula um segmento</string>
     <string name="general_skiptoast">Mostrar um aviso quando pular um segmento automaticamente</string>
     <string name="general_skiptoast_sum">Toque para ver um exemplo de aviso</string>
@@ -97,8 +95,6 @@
     <string name="revanced_adremover_community_guidelines_summary_on">As diretrizes da comunidade estão ocultas</string>
     <string name="revanced_adremover_community_guidelines_title">Remoção de diretrizes da comunidade</string>
     <string name="revanced_adremover_community_posts_summary_off">As postagens da comunidade não estão ocultas</string>
-    <string name="revanced_adremover_community_posts_summary_on">As postagens da comunidade estão ocultas</string>
-    <string name="revanced_adremover_community_posts_title">Ocultar postagens da comunidade</string>
     <string name="revanced_adremover_compact_banner_summary_off">Banners compactos são mostrados</string>
     <string name="revanced_adremover_compact_banner_summary_on">Banners compactos estão escondidos</string>
     <string name="revanced_adremover_compact_banner_title"> Ocultar banners compactos </string>
